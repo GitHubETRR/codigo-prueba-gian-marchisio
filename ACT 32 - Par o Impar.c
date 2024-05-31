@@ -17,5 +17,5 @@ int main(){
        printf("El numero es par");
    }
     
-return 0;
+   return 0;
 }
