@@ -15,5 +15,5 @@ int main() {
    area = sqrt(s*(s-a)*(s-b)*(s-c));
    printf("El valor del area es de: %.2f", area);
 
-return 0;
+   return 0;
 }
