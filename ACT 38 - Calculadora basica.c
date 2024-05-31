@@ -39,5 +39,5 @@ int main(){
        printf("Error: Las unicas operaciones validas son S/R/M/D.\n");
    }
   
-return 0;
+   return 0;
 }
