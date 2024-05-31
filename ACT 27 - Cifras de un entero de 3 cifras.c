@@ -14,7 +14,6 @@ int main(){
    cifra3 = numero % 10;
    
    printf("Las 3 cifras de tu numero son: %d %d %d", cifra1, cifra2, cifra3);
-   
 
-return 0;
+   return 0;
 }
