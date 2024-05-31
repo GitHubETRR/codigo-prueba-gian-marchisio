@@ -21,5 +21,5 @@ int main(){
     printf("La segunda raiz es: \n%.2f", raiz2);
     //si las raices dan como resultado (-nan) significa que estas son imaginarias (j)
    
-return 0;
+   return 0;
 }
