@@ -24,5 +24,5 @@ int main(){
        printf("El numero %d es el mas grande", num3);
    }
     
-return 0;
+   return 0;
 }
