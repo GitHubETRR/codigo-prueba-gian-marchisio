@@ -10,7 +10,7 @@ int main(){
    scanf("%f", &centimetros);
 
    int pies = centimetros / 30.48;
-   float pulgadas = (centimetros / 2.54) - (pies * 12);
+   float pulgadas = (centimetros / 2.54);
    
    printf("La medida en pies es: %d y en pulgadas es: %.2f", pies, pulgadas);
    return 0;
