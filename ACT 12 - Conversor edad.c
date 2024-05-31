@@ -11,5 +11,5 @@ int main(){
    float dias = (int)edad * 365;
    
    printf("Tu edad en años es: %d y en dias es: %.f", edad, dias);
-   return(0);
+   return 0;
 }
