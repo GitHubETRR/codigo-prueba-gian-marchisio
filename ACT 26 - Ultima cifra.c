@@ -16,5 +16,5 @@ int main(){
        printf("El numero debe ser de 2 cifras o más y ser positivo");
    }
 
-return 0;
+   return 0;
 }
