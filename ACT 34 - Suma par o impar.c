@@ -21,5 +21,5 @@ int main(){
        printf("La suma da un numero par: %d", res);
    }
     
-return 0;
+   return 0;
 }
