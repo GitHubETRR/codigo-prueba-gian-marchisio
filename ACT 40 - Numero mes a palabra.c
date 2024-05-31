@@ -13,28 +13,28 @@ int main(){
    
    if (mes == 1 || mes == 01){
        printf("La persona nació el %d de enero de %d", dia, año);
-    }else if (mes == 2 || mes == 02){
+   }else if (mes == 2 || mes == 02){
        printf("La persona nació el %d de febrero de %d", dia, año);
-    }else if (mes == 3 || mes == 03){
+   }else if (mes == 3 || mes == 03){
        printf("La persona nació el %d de marzo de %d", dia, año);
-    }else if (mes == 4 || mes == 04){
+   }else if (mes == 4 || mes == 04){
        printf("La persona nació el %d de abril de %d", dia, año);
-    }else if (mes == 5 || mes == 05){
+   }else if (mes == 5 || mes == 05){
        printf("La persona nació el %d de mayo de %d", dia, año);
-    }else if (mes == 6 || mes == 06){
+   }else if (mes == 6 || mes == 06){
        printf("La persona nació el %d de junio de %d", dia, año);
-    }else if (mes == 7 || mes == 07){
+   }else if (mes == 7 || mes == 07){
        printf("La persona nació el %d de julio de %d", dia, año);
-    }else if (mes == 8 || mes == 8){
+   }else if (mes == 8 || mes == 8){
        printf("La persona nació el %d de agosto de %d", dia, año);
-    }else if (mes == 9 || mes == 9){
+   }else if (mes == 9 || mes == 9){
        printf("La persona nació el %d de septiembre de %d", dia, año);
-    }else if (mes == 10){
+   }else if (mes == 10){
        printf("La persona nació el %d de octubre de %d", dia, año);
-    }else if (mes == 11){
+   }else if (mes == 11){
        printf("La persona nació el %d de noviembre de %d", dia, año);
    }else (mes == 12);{
        printf("La persona nació el %d de diciembre de %d", dia, año);
    }
-return 0;
+   return 0;
 }
