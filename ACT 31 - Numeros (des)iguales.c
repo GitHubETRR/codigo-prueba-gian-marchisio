@@ -19,5 +19,5 @@ int main(){
        printf("los numeros no son iguales");
    }
     
-return 0;
+   return 0;
 }
