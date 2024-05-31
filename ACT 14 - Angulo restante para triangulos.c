@@ -17,5 +17,6 @@ int main(){
       printf("El angulo restante es: %.2f", angrestante);
    }else{
     printf("Error, el valor del angulo restante es menor a 0 o mayor a 180");
-
+   }
    return 0;
+}
