@@ -16,5 +16,5 @@ int main(){
        printf("El numero no es capicúa");
    }
     
-return 0;
+   return 0;
 }
