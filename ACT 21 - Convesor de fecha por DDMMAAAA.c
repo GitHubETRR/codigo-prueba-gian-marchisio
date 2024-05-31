@@ -36,5 +36,4 @@ int main(){
        printf("Dia: %d, Mes: %d, Año: %d\n", dia, mes, año);
    }
    return 0;
-  }
-   
+}
