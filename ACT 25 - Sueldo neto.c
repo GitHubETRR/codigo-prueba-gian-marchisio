@@ -19,5 +19,5 @@ int main(){
 
    printf("El sueldo neto del trabajador es de %d", sueldoneto);
 
-return 0;
+   return 0;
 }
