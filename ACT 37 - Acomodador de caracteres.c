@@ -28,5 +28,5 @@ int main(){
             printf("Los caracteres son: %c, %c, %c \n", caracter0, caracter1, caracter2);
     }
     
-return 0;
+   return 0;
 }
