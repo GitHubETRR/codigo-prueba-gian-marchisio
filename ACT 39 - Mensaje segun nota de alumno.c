@@ -25,5 +25,5 @@ int main(){
    }else{
        printf("La nota debe estar en el rango 1-10");
    }
-return 0;
+   return 0;
 }
