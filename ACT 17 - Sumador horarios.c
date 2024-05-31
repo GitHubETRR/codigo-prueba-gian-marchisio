@@ -26,5 +26,5 @@ int main(){
     }
     printf("Su tiempo final es equivalente a: %d horas, %d minutos y %d segundos ",total_horas,total_minutos,total_segundos);
 
-   return 0;
+    return 0;
 }
