@@ -21,5 +21,5 @@ int main(){
     printf("La cantidad de segundos es mayor a 86400");
    }
 
-return 0;
+   return 0;
 }
