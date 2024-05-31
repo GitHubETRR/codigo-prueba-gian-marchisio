@@ -15,6 +15,7 @@ int main(){
    angrestante = 180 - (angulo1 + angulo2);
    if(0 < angulo1+angulo2 & 180 > angulo1+angulo2){
       printf("El angulo restante es: %.2f", angrestante);
- }else{
+   }else{
     printf("Error, el valor del angulo restante es menor a 0 o mayor a 180");
-   }
+
+   return 0;
