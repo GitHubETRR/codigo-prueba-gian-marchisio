@@ -11,7 +11,7 @@ int main() {
 
    while (num >= 0) {
       total += num;
-      contador++;
+      cantidad++;
       printf("Ingrese un número:\n ");
       scanf("%d", &num);
    }
