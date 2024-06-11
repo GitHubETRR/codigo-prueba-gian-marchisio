@@ -16,7 +16,7 @@ int main() {
       scanf("%d", &num);
    }
 
-   if (contador > 0) {
+   if (cantidad > 0) {
       promedio = total / cantidad;
       printf("El promedio es: %d\n", promedio);
    }else{
