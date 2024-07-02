@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <math.h>
 
-float const PI = 3.14;
+const float PI = 3.14;
 
 int main(){
    float R, A;
