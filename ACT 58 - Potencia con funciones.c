@@ -1,3 +1,5 @@
+//58.	Desarrolle la función “potencia” que reciba por parámetros un entero X 
+//y una potencia Y; y devuelva por resultado XY. 
 #include <stdio.h>
 #include <math.h>
 
