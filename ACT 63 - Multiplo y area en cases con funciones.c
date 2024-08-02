@@ -30,7 +30,7 @@ int main(){
 }
 
 void multiplo(){
-    int num1, num2, ver, fal, i;
+    int num1, num2;
     printf("Usted eligio probar el multiplo de un numero\n");
     printf("Ingrese el numero mas grande\n");
     scanf("%d", &num1);
