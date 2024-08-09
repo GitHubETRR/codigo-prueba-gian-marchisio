@@ -12,7 +12,7 @@ int main() {
     printf("Ingrese por favor los 3 valores a ordenar\n");
     scanf("%d %d %d", &v1, &v2, &v3);
     ordenarMayor(&v1, &v2, &v3);
-    printf("En orden: menor = %d, medio = %d, mayor = %d\n", v1, v2, v3);
+    printf("En orden: mayor = %d, medio = %d, menor = %d\n", v3, v2, v1);
     return 0;
 }
 
