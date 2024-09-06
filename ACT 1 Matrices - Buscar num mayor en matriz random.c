@@ -1,8 +1,12 @@
+//Ingresar una matriz, de NxN valores en forma aleatoria, entre 1 y 30, donde N es 5, 
+//informar el valor máximo y su ubicación. 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
 #define N 5 
+#define MAX 30
 
 void Matriz_Random(int matriz[N][N]);
 void Num_Max(int valormax, int filamax, int colamax, int matriz[N][N]);
@@ -22,7 +26,7 @@ void Matriz_Random(int matriz[N][N]){
     srand(time(NULL));
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < N; j++) {
-            matriz[i][j] = rand() % 30 + 1; 
+            matriz[i][j] = rand() % MAX + 1; 
             printf("%2d ", matriz[i][j]);  
         }
         printf("\n");
